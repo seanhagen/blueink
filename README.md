@@ -1,2 +1,4 @@
-# blue-ink
-A Go library for parsing the Ink narrative format
+Blue Ink
+========
+
+A Go library for parsing the Ink narrative format!
